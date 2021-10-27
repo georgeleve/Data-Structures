@@ -1,24 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@georgeleve 
-georgeleve
-/
-hello-world
-Private
-0
-00
- Code Issues 0 Pull requests 1 Actions Projects 0 Security Insights Settings
-hello-world/Phase A
-@georgeleve georgeleve Update Phase A
-ef82d41 on 22 Dec 2019
-907 lines (758 sloc)  20.1 KB
-  
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
